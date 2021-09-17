@@ -16,6 +16,8 @@ public class Empresa {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //main susa todas mis clases y ejecuta el programa "metodo estad alone" 
+        
     }
     
 }
